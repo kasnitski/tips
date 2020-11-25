@@ -19,6 +19,6 @@ extension AVAsset {
                 }
             }
         }
-        return true
+        return false
     }
 }
